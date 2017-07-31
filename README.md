@@ -6,12 +6,11 @@ A view that mimics the timeline，you can download it when you need logistics tr
 
 这是母项目 H-Express 中的那个自定义时间轴view，现抽取出来分享给大家。
 
-[timeline  APK](https://github.com/qht1003077897/timeline/tree/master/apk/app-debug.apk)
-
+[timeline  APK](https://github.com/qht1003077897/timeline/blob/master/apk/app-debug.apk)
 ----------
 ## Screenshots
 
-<a href="art/1.png"><img src="art/1.png" width="50%"/></a>
+<a href="screenshot/1.png"><img src="screenshot/1.png" width="50%"/></a>
 
 ----------
 ## Import
