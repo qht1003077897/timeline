@@ -15,13 +15,15 @@ A view that mimics the timeline，you can download it when you need logistics tr
 ----------
 ## Import
 
+AS: 
 ```
 	dependencies {
 	        compile 'com.qht1003077897.timeline:timelinelibrary:0.1'
 	}
 
 ```
-
+EC: 
+使用eclipse的同学直接到项目的github地址下面timelinelibrary中拷贝出两个类，一个attrs出来，放到自己项目中即可。
 ----------
 ## Clone
 
