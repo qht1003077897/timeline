@@ -10,7 +10,8 @@ A view that mimics the timeline，you can download it when you need logistics tr
 ----------
 ## Screenshots
 
-<a href="screenshot/1.png"><img src="screenshot/1.png" width="50%"/></a>
+![这里写图片描述](http://img.blog.csdn.net/20170801094254090?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMjUzNDgzMQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![这里写图片描述](http://img.blog.csdn.net/20170801094302201?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMjUzNDgzMQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+左边为H-Express中的效果，右边为原始效果，横向和竖向。
 
 ----------
 ## Import
@@ -24,6 +25,7 @@ AS:
 ```
 EC: 
 使用eclipse的同学直接到项目的github地址下面timelinelibrary中拷贝出两个类，一个attrs出来，放到自己项目中即可。
+
 ----------
 ## Clone
 
