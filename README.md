@@ -17,7 +17,7 @@ A view that mimics the timeline，you can download it when you need logistics tr
 
 ```
 	dependencies {
-	        compile 'com.qht1003077897.timeline:timeline:v0.1'
+	        compile 'com.qht1003077897.timeline:timelinelibrary:0.1'
 	}
 
 ```
